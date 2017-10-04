@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccountKitSample</string>
+    <string name="facebook_app_id">120061138660507</string>
+    <string name="ak_login_protocol_scheme">ak120061138660507</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">4dc4a71c76124ece56016b62b52fb5c9</string>
+
+</resources>
