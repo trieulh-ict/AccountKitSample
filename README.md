@@ -5,7 +5,9 @@ Test Error in AccessToken
 Reproduce:
 
 - Step 1: Login with Phone to get 1st Access Token.
+   * Check Log under tag `ACCOUNTKIT-LOG`to get 1st Access Token
 - Step 2: Login with Email to get 2nd Access Token.
+   * Check Log under tag `ACCOUNTKIT-LOG`to get 2nd Access Token
 - Step 3: Try to check info of each token through command:
 
 ```
